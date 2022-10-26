@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Beyza</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
-[spongebob-computer](https://user-images.githubusercontent.com/74272914/198056558-bb14ac79-1164-4ff2-9732-ef556ed83f78.gif)
+![spongebob-computer](https://user-images.githubusercontent.com/74272914/198057094-f52450cb-25c6-4bbd-bfdb-7ae682a58380.gif)
+
 - 🔭 I’m currently working on **Web Development**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/beyzanuraltkrds)
