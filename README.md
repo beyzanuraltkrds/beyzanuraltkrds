@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Beyza</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
-
+[spongebob-computer](https://user-images.githubusercontent.com/74272914/198056558-bb14ac79-1164-4ff2-9732-ef556ed83f78.gif)
 - 🔭 I’m currently working on **Web Development**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/beyzanuraltkrds)
 
 - 💬 Ask me about **html,css,bootstrap,react,javascript,vue**
 
-- 📫 How to reach me **beyzanuraltkrds@outlook.com**!                                       [spongebob-computer](https://user-images.githubusercontent.com/74272914/198056558-bb14ac79-1164-4ff2-9732-ef556ed83f78.gif)
+- 📫 How to reach me **beyzanuraltkrds@outlook.com**!                                       
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
