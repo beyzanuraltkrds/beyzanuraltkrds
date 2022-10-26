@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Beyza</h1>
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
+<h1 align="center"> 
+<h1 align="center">  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello there!+-%3E+I'm Beyza+%F0%9F%96%90" alt="greeting"/></a></h1>
+
+<h3 align="center">
 
 - 🔭 I’m currently working on **Web Development**
 
