@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/beyzanuraltkrds](https://github.com/beyzanuraltkrds)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/beyzanuraltkrds)
 
 - 💬 Ask me about **html,css,bootstrap,react,javascript,vue**
 
