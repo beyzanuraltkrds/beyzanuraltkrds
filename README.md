@@ -4,6 +4,7 @@
 
 
 <h3 align="center">
+<img align="right" alt="old me irl xd" width="300" height="230" src="https://user-images.githubusercontent.com/74272914/198057242-101ecbfa-a346-4c49-bb4f-974a0ad2f09d.gif">
 
 - 🔭 I’m currently working on **Web Development**
 
@@ -12,7 +13,7 @@
 - 💬 Ask me about **html,css,bootstrap,react,javascript,vue**
 
 - 📫 How to reach me **beyzanuraltkrds@outlook.com**!   
-![spongebob-computer](https://user-images.githubusercontent.com/74272914/198057242-101ecbfa-a346-4c49-bb4f-974a0ad2f09d.gif)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
