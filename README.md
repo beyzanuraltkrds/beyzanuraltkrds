@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
-- 💬 Ask me about **Python, R, SQL, MySQL**
+- 💬 Ask me about **Python, SQL, MySQL**
 
 - 📫 How to reach me **beyzanuraltkrds@outlook.com**
 
