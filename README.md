@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Beyza</h1>
 <h3 align="center">A passionate data scientist from Türkiye</h3>
 
-- 🔭 I’m currently working on **Data Science**
+- 🔭 I’m currently working on **Data Analyze**
 
 - 🌱 I’m currently learning **SQL, MySQL**
 
