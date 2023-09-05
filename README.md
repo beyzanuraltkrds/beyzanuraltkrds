@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
-- 💬 Ask me about **Python, SQL, MySQL**
+- 💬 Ask me about **Python, SQL, MySQL,Power BI,MicroStrategy**
 
 - 📫 How to reach me **beyzanuraltkrds@outlook.com**
 
